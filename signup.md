@@ -99,17 +99,17 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
    A Discord account is required to sign in to communicate with the teaching staff during lab hours.
    You can skip this step if you already have an account.
 
-2. To join the course Discord server, navigate [here](https://discord.gg/yvvQkXvdAM).
+2. To join the course Discord server, navigate [here](https://discord.gg/xFnZUUcvkE).
 
 3. Once connected to the server, please register with our bot, `@dat520-helpbot`, by sending it a direct message:
 
    ```text
-   !register username
+   /register
    ```
 
-   where `username` is your GitHub username.
+   Registration requires that you provide your GitHub `username` and select the Distributed Systems course.
 
-   Note that to register with the bot, you must previously have registered with QuickFeed.
+   Note that to register with the bot, you must previously have registered with QuickFeed with the same GitHub `username`.
    Hence, please make sure that you have joined the [`dat520-2024`](https://github.com/dat520-2024) GitHub organization and registered with QuickFeed first.
 
    If you need help with registering on the server, send a message in `#new-users`.
