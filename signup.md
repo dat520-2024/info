@@ -101,7 +101,7 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
 
 2. To join the course Discord server, navigate [here](https://discord.gg/xFnZUUcvkE).
 
-3. Once connected to the server, please register with our helpbot in the `#general` channel using:
+3. Once connected to the server, please register with our bot, `@dat520-helpbot`, by sending it a direct message or by sending the command in the `#general` channel:
 
    ```text
    /register
@@ -112,4 +112,4 @@ Here are two short videos describing these steps: [Part 1](https://youtu.be/3KJm
    Note that to register with the bot, you must previously have registered with QuickFeed with the same GitHub `username`.
    Hence, please make sure that you have joined the [`dat520-2024`](https://github.com/dat520-2024) GitHub organization and registered with QuickFeed first.
 
-   If you need help with registering on the server, send a message in `#general` or `#help`.
+   If you need help with registering on the server, send a message in the `#help` channel.
