@@ -25,6 +25,10 @@ Optional video lectures related to the Raft paper:
 
 ## The lab assignments available on GitHub are syllabus
 
+This includes supplementary material linked from the lab assignments, such as protobuf and gRPC.
+This means you should know the basics, but we won't ask about deep knowledge about the details.
+For example, you may be asked to explain different portions of a proto file, or to write a proto file from scratch according to a specification.
+
 ## Paper Reading List
 
 The following papers are required reading:
