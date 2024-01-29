@@ -46,3 +46,7 @@ The following wikipedia articles are syllabus:
 - [The Two Generals Problem](https://en.wikipedia.org/wiki/Two_Generals%27_Problem)
 - [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault)
+
+The original Gorums paper is optional reading:
+
+- [Towards New Abstractions for Implementing Quorum-Based Systems](reading/gorums.pdf), Tormod Erevik Lea, Leander Jehl and Hein Meling
