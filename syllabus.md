@@ -14,6 +14,7 @@ All sections in 1 and 2 should be considered for the exam.
 - (will be added later) [Paxos I](slides2024/3-paxos-from-scratch-2024.pdf)
 - (will be added later) [Paxos II](slides2024/4-paxos-made-insanely-simple-2024.pdf)
 - [Designing for Understandability: The Raft Consensus Algorithm](https://www.youtube.com/watch?v=vYp4LYbnnW8) (video lecture)
+- (will be added later) [BitCoin](slides2024/5-bitcoin-2024.pdf)
 
 The slides from the guest lectures are also syllabus; will be added above.
 
