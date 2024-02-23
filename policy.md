@@ -7,12 +7,16 @@ All lab assignments must be completed to satisfaction (passed) in order to sit f
 Some of the assignments will be automatically approved by QuickFeed when sufficiently many tests pass; these does not require any manual approval.
 
 For assignments that require TA approval, *you must* present your solution to a member of the teaching staff.
+For group assignments, each group member must **individually** present and explain their work to a TA for approval.
 This should be done during lab hours.
-Approval can take place in person or remotely via Discord.
-This lets you present the thought process behind your solution.
+Approval can take place in-person or remotely via Discord.
+This lets you present the thought process behind your solution, and we may also provide feedback on your solution.
 
-When you are ready to show your solution, follow the instructions on Discord to join the approval queue, even if you are doing it in-person.
+When you are ready to show your solution, reach out to a member of the teaching staff.
+You can also use the Discord helpbot to request lab approval, by typing `/approve`.
+A TA will be notified and reach out to you to make an appointment for lab approval.
 If approval is done on Discord, you will be asked to share your screen, run and explain your solution.
+
 Please be mindful of the TA's time and be prepared to run and explain your solution in a concise manner.
 Do not send messages directly to the teaching staff on Discord; use the approval queue instead.
 
