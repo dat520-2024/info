@@ -14,7 +14,7 @@ All sections in 1 and 2 should be considered for the exam.
 - [Introduction to Distributed Systems](slides2024/1-introduction-2024.pdf)
 - [Gorums](slides2024/2-gorums-intro-2024.pdf)
 - [Paxos Explained From Scratch](slides2024/3-paxos-from-scratch-2024.pdf)
-- [Paxos Made Insanely Simple](slides2024/4-paxos-made-insanely-simple-2024.pdf)
+- [Paxos Made Insanely Simple](slides2024/4-paxos-insanely-simple-2024.pdf)
 - [Global Consistent States](slides2024/5-global-states-2024.pdf)
 - [Designing for Understandability: The Raft Consensus Algorithm](https://www.youtube.com/watch?v=vYp4LYbnnW8) (video lecture)
 - (will be added later) [BitCoin](slides2024/6-bitcoin-2024.pdf)
