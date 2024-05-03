@@ -1,4 +1,4 @@
-# Tentative Syllabus
+# Syllabus
 
 The official textbook for the course is RSDP:
 [Introduction to Reliable and Secure Distributed Programming](https://link.springer.com/book/10.1007/978-3-642-15260-3),
@@ -6,7 +6,7 @@ Christian Cachin, Rachid Guerraoui, and Luís Rodrigues, 2nd ed. Springer, 2011
 The following chapters are syllabus: 1, 2, 3, 4, 5, 6.
 
 The sections that cover the log-recovery algorithms and Byzantine algorithms in Chapters 3-6 need not be considered for the exam.
-All sections in 1 and 2 should be considered for the exam.
+All sections in Chapter 1 and 2 should be considered for the exam.
 
 ## The lecture presentations are syllabus
 
@@ -17,14 +17,9 @@ All sections in 1 and 2 should be considered for the exam.
 - [Paxos Made Insanely Simple](slides2024/4-paxos-insanely-simple-2024.pdf)
 - [Global Consistent States](slides2024/5-global-states-2024.pdf)
 - [Designing for Understandability: The Raft Consensus Algorithm](https://www.youtube.com/watch?v=vYp4LYbnnW8) (video lecture)
-- (will be added later) [BitCoin](slides2024/6-bitcoin-2024.pdf)
+- [Guest Lecture: Building Resilient Systems](slides2024/6-cleipnir-2024.pdf)
 
-The slides from the guest lectures are also syllabus; will be added above.
-
-Optional video lectures related to the Raft paper:
-
-- [Raft Lecture (Raft user study)](https://www.youtube.com/watch?v=YbZ3zDzDnrw)
-- [Paxos Lecture (Paxos user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
+The slides from **the guest lectures are also syllabus**.
 
 ## The lab assignments available on GitHub are syllabus
 
@@ -43,9 +38,6 @@ The following papers are required reading:
 - [Keeping CALM When Distributed Consistency Is Easy](reading/keeping-calm.pdf), Joseph M. Hellerstein, Peter Alvaro
 - [The Tail at Scale](reading/tail-at-scale.pdf), Jeff Dean and Luiz André Barroso
 
-Additional Paxos-related reading material (not required reading) can be found in lab4's [resources](../lab4/resources) folder.
-Robbert van Renesse's [Paxos Made Moderately Complex](https://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf) is also a good resource for understanding the Paxos algorithm in more detail.
-
 The following wikipedia articles are syllabus:
 
 - [The CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
@@ -55,6 +47,20 @@ The following wikipedia articles are syllabus:
 - [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 - [Byzantine Generals Problem](https://en.wikipedia.org/wiki/Byzantine_fault)
 
+## Optional Reading and Viewing Material
+
+### Reading Material
+
+Additional Paxos-related reading material (not required reading) can be found in lab4's [resources](../lab4/resources) folder.
+Robbert van Renesse's [Paxos Made Moderately Complex](https://www.cs.cornell.edu/courses/cs7412/2011sp/paxos.pdf) is also a good resource for understanding the Paxos algorithm in more detail.
+
 The original Gorums paper is optional reading:
 
 - [Towards New Abstractions for Implementing Quorum-Based Systems](reading/gorums.pdf), Tormod Erevik Lea, Leander Jehl and Hein Meling
+
+### Optional Video Lectures
+
+Optional video lectures related to the Raft paper:
+
+- [Raft Lecture (Raft user study)](https://www.youtube.com/watch?v=YbZ3zDzDnrw)
+- [Paxos Lecture (Paxos user study)](https://www.youtube.com/watch?v=JEpsBg0AO6o)
