@@ -17,7 +17,7 @@ All sections in Chapter 1 and 2 should be considered for the exam.
 - [Paxos Made Insanely Simple](slides2024/4-paxos-insanely-simple-2024.pdf)
 - [Global Consistent States](slides2024/5-global-states-2024.pdf)
 - [Designing for Understandability: The Raft Consensus Algorithm](https://www.youtube.com/watch?v=vYp4LYbnnW8) (video lecture)
-- [Guest Lecture: Building Resilient Systems](slides2024/6-cleipnir-2024.pdf)
+- [Guest Lecture: Building Resilient Systems](slides2024/6-cleipnir-presentation-2024.pdf)
 
 The slides from **the guest lectures are also syllabus**.
 
